@@ -106,7 +106,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'Jujurly Bot Blm admin!',
+    admin: 'Kasian Lu Blm Admin',
     botAdmin: 'Jadiin Admin Dong Banggg',
     owner: 'Lu Owner?!',
     group: 'Feature Used Only For Groups!',
